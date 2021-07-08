@@ -2,14 +2,14 @@
 
 We consider the letters "A","E","I","O","U","Y" to be vowels for this problem.
 
-Input Format
-
+Input Format:
 The first line contains a string of length 9. The format is "DDXDDD-DD", where D stands for a digit (non zero) and X is an uppercase english letter.
 
-Output Format
-
+Output Format:
 Print "valid" (without quotes) if the tag is valid, print "invalid" otherwise (without quotes)
 Question Link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/
+Input:123X345-67
+Output:Invalid
 */
 import java.util.*;
 import java.io.*;
