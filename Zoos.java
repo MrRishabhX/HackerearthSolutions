@@ -9,7 +9,9 @@ First line: A word that starts with several Zs and continues by several Os.
 Note: The maximum length of this word must be 20.
 
 Output format
-Print Yes if the input word can be considered as the string zoo otherwise, print No.*/
+Print Yes if the input word can be considered as the string zoo otherwise, print No.
+Question Link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/
+*/
 
 import java.io.*;
 class palindrome
