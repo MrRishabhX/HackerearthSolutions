@@ -8,7 +8,9 @@ The first line contains a string of length 9. The format is "DDXDDD-DD", where D
 
 Output Format
 
-Print "valid" (without quotes) if the tag is valid, print "invalid" otherwise (without quotes)*/
+Print "valid" (without quotes) if the tag is valid, print "invalid" otherwise (without quotes)
+Question Link:https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/
+*/
 import java.util.*;
 import java.io.*;
 class Ali
